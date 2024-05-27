@@ -7,13 +7,14 @@ Disclaimer: This is **NOT** an research project. Some part might not be rigorous
 
 **MPC-DC Reuslts**
 <p align="center">
-  <img alt="Image 1" src="https://github.com/lihanlian/simple-mpc-cbf/figs/animation_mpc_dc_static.gif" width="45%" />
-  <img alt="Image 2" src="https://github.com/lihanlian/simple-mpc-cbf/figs/animation_mpc_dc_static_and_dynamic.gif" width="45%" />
+  <img alt="Image 1" src="figs/animation_mpc_dc_static.gif" width="45%" />
+  <img alt="Image 2" src="figs/animation_mpc_dc_static_and_dynamic.gif" width="45%" />
 </p>
+
 **MPC-CBF ResultS**
 <p align="center">
-  <img alt="Image 1" src="https://github.com/lihanlian/simple-mpc-cbf/figs/animation_mpc_cbf_static.gif" width="45%" />
-  <img alt="Image 2" src="https://github.com/lihanlian/simple-mpc-cbf/figs/animation_mpc_cbf_static_and_dynamic.gif" width="45%" />
+  <img alt="Image 1" src="figs/animation_mpc_cbf_static.gif" width="45%" />
+  <img alt="Image 2" src="figs/animation_mpc_cbf_static_and_dynamic.gif" width="45%" />
 </p>
 
 
