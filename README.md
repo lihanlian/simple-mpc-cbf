@@ -3,7 +3,7 @@
 
 This repository is about using model predictive control (MPC) and control barrier function (CBF) for robot motion planning problem with obstacle avoidance. Two methods are used: one is using eulidean distance (MPC-DC) and the other is using CBF for safety guarantee. Python and CasADi are used for implementation. It is initiated by the final project of **AEROSP 740 - Model Predictive Control (2024 Winter)** at University of Michigan - Ann Arbor.
 
-Disclaimer: This is **NOT** an research project. Some part might not be rigorous and suggestions are welcomed.
+Disclaimer: This is **NOT** a research project. Some part might not be rigorous and suggestions are welcomed.
 
 **MPC-DC Reuslts**
 <p align="center">
@@ -11,7 +11,7 @@ Disclaimer: This is **NOT** an research project. Some part might not be rigorous
   <img alt="Image 2" src="figs/animation_mpc_dc_static_and_dynamic.gif" width="45%" />
 </p>
 
-**MPC-CBF ResultS**
+**MPC-CBF Results**
 <p align="center">
   <img alt="Image 1" src="figs/animation_mpc_cbf_static.gif" width="45%" />
   <img alt="Image 2" src="figs/animation_mpc_cbf_static_and_dynamic.gif" width="45%" />
